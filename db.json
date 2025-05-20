@@ -1,0 +1,73 @@
+{
+  "projects": [
+    {
+      "id": "e937",
+      "category": {
+        "id": "1",
+        "name": "Infra"
+      },
+      "name": "Melhoria de Escritório",
+      "budget": "5700",
+      "cost": 2999,
+      "services": [
+        {
+          "name": "Ergonomia",
+          "cost": "2999",
+          "description": "Comprar artigos de ergonomia como cadeiras e apoios para pés",
+          "id": "aa2a59d0-4a8e-42c4-93be-9ab60260bdc3"
+        }
+      ]
+    },
+    {
+      "id": "9bd4",
+      "category": {
+        "id": "2",
+        "name": "Desenvolvimento"
+      },
+      "name": "Treinamento de Times",
+      "budget": "2000",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "bce2",
+      "category": {
+        "id": "3",
+        "name": "Design"
+      },
+      "name": "Atualização de Logo",
+      "budget": "765",
+      "cost": 0,
+      "services": []
+    },
+    {
+      "id": "5ded",
+      "category": {
+        "id": "4",
+        "name": "Planejamento"
+      },
+      "name": "Contratação de Novos Funcionários",
+      "budget": "8400",
+      "cost": 0,
+      "services": []
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "name": "Infra"
+    },
+    {
+      "id": "2",
+      "name": "Desenvolvimento"
+    },
+    {
+      "id": "3",
+      "name": "Design"
+    },
+    {
+      "id": "4",
+      "name": "Planejamento"
+    }
+  ]
+}
